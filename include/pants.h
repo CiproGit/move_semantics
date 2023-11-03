@@ -3,6 +3,7 @@
 
 #include "belt.h"
 #include "garment.h"
+#include <memory>
 
 namespace clothes {
 	using Size = int;
